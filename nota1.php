@@ -1,0 +1,2 @@
+hash
+apache_get_modules
